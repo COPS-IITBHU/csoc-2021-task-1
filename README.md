@@ -80,7 +80,7 @@ Complexity of the algorithm that are used in building are divided into two parts
 
 # Submission
 
-Submission has to be done by sharing your github repo link and the .apk file of your tic-tac-toe app
+Submission has to be done by sharing your github repo link and the .apk file of your android app
 
 ### Gunderlines :
 
