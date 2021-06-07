@@ -72,7 +72,7 @@ must contain only one instance of each numeral.
 Complexity of the algorithm that are used in building are divided into two parts. 
 - One is the complexity of the algorithm to generate the complete grid. We discover the randomness of generating complete grid increases when the complexity increases, that is, the randomness higher and the complexity greater.
 
-- Second, is the algorithm to check each row , coloum and block and declare the final result . 
+- Second, is the algorithm to assign numbers in grid and check for each row , column and block and declare the final result . 
 
 ### Bonus task
 
