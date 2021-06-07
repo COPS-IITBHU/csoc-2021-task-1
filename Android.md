@@ -17,7 +17,7 @@ Android Studio is the official Integrated Development Environment (IDE) for Andr
 
 While developing an android app you will need to test it on a device. You can test it in two ways -
 
-- [Real Device (Preffered for slower systems)](https://developer.android.com/studio/debug/dev-options)
+- [Real Device (Preferred for slower systems)](https://developer.android.com/studio/debug/dev-options)
 For testing you apps on a real device you will need to have a USB cable and an Android device. Follow this tutorial to enable USB debugging in order to run your app in the device.
 
 - [Emulator](https://developer.android.com/studio/run/emulator)
