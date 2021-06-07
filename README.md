@@ -35,16 +35,25 @@ If you haven't had any chance to develop android apps earlier then don't worry i
    
    [Android development tutorial 2](https://www.youtube.com/playlist?list=PLgCYzUzKIBE8TUoCyjomGFqzTFcJ05OaC)
 - Written Tutorials
-- [Create a project](https://developer.android.com/training/basics/firstapp/creating-project)
-- [Run your app](https://developer.android.com/training/basics/firstapp/running-app)
-- [Include new UI](https://developer.android.com/training/basics/firstapp/building-ui)
-- [Make it functional](https://developer.android.com/training/basics/firstapp/starting-activity)
+
+   [Create a project](https://developer.android.com/training/basics/firstapp/creating-project)
+ 
+   [Run your app](https://developer.android.com/training/basics/firstapp/running-app)
+ 
+   [Include new UI](https://developer.android.com/training/basics/firstapp/building-ui)
+ 
+   [Make it functional](https://developer.android.com/training/basics/firstapp/starting-activity)
 
 # Assignment
 
-### [TIC-TAC-TOE]((https://en.m.wikipedia.org/wiki/Tic-tac-toe))
+This week tasks will be on the basic of android development and comprises of making simple games like TIC-TAC-TOE and SUDOKU . 
 
-The task that we'll be working over is to build a TIC-TAC-TOE game , a multi-player classic game where both players will have to choose between X or O .The first player to complete a diagonal,  vertical or horizontal blocks wins the game.
+##### Note 
+- You can choose either of them or both of them . 
+
+## [TIC-TAC-TOE](https://en.m.wikipedia.org/wiki/Tic-tac-toe)
+
+The task that we'll be working over is to build a TIC-TAC-TOE game , a multi-player classic game where both players will have to choose between X or O .The first player to complete a diagonal, vertical or a horizontal blocks wins the game.
 
 ### Bonus task
 
@@ -52,14 +61,29 @@ The task that we'll be working over is to build a TIC-TAC-TOE game , a multi-pla
 
 • Extra points for making an unbeatable AI using Minimax algorithm.
 
-### SUDOKU
+
+## [SUDOKU](https://en.wikipedia.org/wiki/Sudoku)
+
+Sudoku is a logic-based puzzle game .The aim of the Sudoku puzzle is to put in a numerical digit from 1 through 9 in each
+cell of a 9×9 grid made up of 3×3 sub-grids (called "block”), starting with various digits
+given in some cells (the "givens") with the others empty; each row, column, and block
+must contain only one instance of each numeral. 
+
+Complexity of the algorithm that are used in building are divided into two parts. 
+- One is the complexity of the algorithm to generate the complete grid. We discover the randomness of generating complete grid increases when the complexity increases, that is, the randomness higher and the complexity greater.
+- 
+- Second, is the algorithm to check each row , coloum and block and declare the final result . 
+
+### Bonus task
+
+- Extra points will be rewarded for making EASY , MEDIUM and HARD levels . 
 
 # Submission
 
-Submission has to be done by sharing your github repo link and  the .apk file of your tic-tac-toe app
+Submission has to be done by sharing your github repo link and the .apk file of your tic-tac-toe app
 
 ### Gunderlines :
 
-- Clone the csoc - android-week 1 repository on your device
-- Make a folder of your name and add the .apk file of your  app.
-- Make a Pull request
+- Clone CSOC-task1-2021 on your device .
+- Make a folder of your name within the Android folder and add the .apk file of your app.
+- Finally push your Pull request .
