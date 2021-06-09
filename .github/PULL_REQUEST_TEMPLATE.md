@@ -1,5 +1,4 @@
 ## CSOC Task 1 Submission
-
 <!-- - [x] mark like this where required -->
 
 ### Track
@@ -9,7 +8,7 @@
 - [ ] Web Devlopment
 
 ### Task Completed
-
+<!-- you only have to fill in one of the tasks -->
 #### Tic Tac Toe
 
 - [ ] **Task 1**: Implement a two-player mode that allows two people to compete against each other.
@@ -28,4 +27,6 @@
 
 ### Submission
 
+<!-- Add in your repo and apk link or web site link as per track -->
+[Repo](link)
 [APK|Web Site](link)
