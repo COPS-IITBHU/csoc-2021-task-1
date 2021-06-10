@@ -5,7 +5,7 @@
 
 - [ ] Android
 - [ ] Flutter
-- [ ] Web Devlopment
+- [X] Web Devlopment
 
 ### Task Completed
 <!-- you only have to fill in one of the tasks -->
@@ -19,14 +19,14 @@
 
 #### Sudoku
 
-- [ ] **Task 1**: Implement a Sudoku game. (The board may remain the same every time).
-- [ ] **Task 2**: Implement a board generator and generate a random board in every game. You may use backtracking or naive approaches to generate the board.
-- [ ] **Task 3:** Add a timer to the game, where the user may select a particular time to complete the game within it. **Bonus**: As the time reaches 0, the user can be warned about the time running out.
-- [ ] **Task 4:** Warning the user about incorrect inputs and user engagement.
+- [X] **Task 1**: Implement a Sudoku game. (The board may remain the same every time).
+- [X] **Task 2**: Implement a board generator and generate a random board in every game. You may use backtracking or naive approaches to generate the board.
+- [X] **Task 3:** Add a timer to the game, where the user may select a particular time to complete the game within it. **Bonus**: As the time reaches 0, the user can be warned about the time running out.
+- [X] **Task 4:** Warning the user about incorrect inputs and user engagement.
 - [ ] **Extras:** To make the game more engaging, you may provide hints if the user is stuck for like 10-20 seconds.
 
 ### Submission
 
 <!-- Add in your repo and apk link or web site link as per track -->
-[Repo](link)
-[APK|Web Site](link)
+[Repo](https://github.com/aditya-chhaparia/csoc-2021-task-1)
+[Web Site](https://aditya-chhaparia.github.io/sudoku-game/)
