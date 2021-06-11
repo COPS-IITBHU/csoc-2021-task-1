@@ -28,5 +28,5 @@
 ### Submission
 
 <!-- Add in your repo and apk link or web site link as per track -->
-[Repo](link)
-[APK|Web Site](link)
+[Repo](https://github.com/Majesty-12/Tic-Tac-Toe)
+[APK|Web Site](https://naveen-tic-tac-toe.netlify.app)
