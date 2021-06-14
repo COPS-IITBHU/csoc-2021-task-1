@@ -39,3 +39,5 @@ Submission has to be done by sharing your github repo link and deployment link o
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+
+<!-- - Kriti Chaudhari- [csoc-2021-task-1](https://github.com/SymmetricEntropy/csoc-2021-task-1) [Site](Site Link) -->
