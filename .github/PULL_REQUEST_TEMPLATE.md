@@ -5,13 +5,12 @@
 
 - [ ] Android
 - [ ] Flutter
-- [ ] Web Devlopment
+- [X] Web Devlopment
 
 ### Task Completed
 <!-- you only have to fill in one of the tasks -->
 #### Tic Tac Toe
 
-- [ ] **Task 1**: Implement a two-player mode that allows two people to compete against each other.
 - [ ] **Task 2**: Add a single-player mode that allows users to play with an intelligent bot that never loses.
 - [ ] **Task 3**: Add an option to select which shape to begin with (X/O).
 - [ ] **Task 4:** In single-player mode, add an option to choose who will start first - computer or player.
@@ -28,5 +27,6 @@
 ### Submission
 
 <!-- Add in your repo and apk link or web site link as per track -->
-[Repo](link)
+- [ ] **Task 1**: Implement a two-player mode that allows two people to compete against each other.
+[Repo](https://github.com/Ad-tea/Tic-Tac-Toe.git  )
 [APK|Web Site](link)
