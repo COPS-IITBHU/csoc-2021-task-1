@@ -37,5 +37,5 @@ Submission has to be done by sharing your github repo link and deployment link o
 ## Submissions
 
 <!-- Add you name in below list as -->
-<!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
+<!-- - Ayushi Yadav - [Repo Name](https://github.com/Ayushi601/TIC-TAC-TOE.git) [Site](https://dreamy-darwin-3892c2.netlify.app/) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
