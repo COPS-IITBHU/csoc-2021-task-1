@@ -35,6 +35,7 @@ Submission has to be done by sharing your github repo link and deployment link o
 - Make a Pull request
 
 ## Submissions
+ - Aniruddh Patil - [repo](https://github.com/lelouch-of-the-code/Ani-ticTacToe) | [Site](https://anii-tictactoe.netlify.app/)
 
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
