@@ -38,4 +38,5 @@ Submission has to be done by sharing your github repo link and deployment link o
 
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
+Mohit Kumar Sharma - [tic-tac-toe](https://github.com/MohitSharma-21/tic-tac-toe) [Site](https://mohitsharma-21.github.io/tic-tac-toe/)
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
