@@ -1,6 +1,7 @@
 # CSOC Week1 Web Development
 
-##  Introduction
+## Introduction
+
 Web development is a basic skill that is often said as a good start to the development field. This week you will learn the basics of web development. You will get familiar with HTML, CSS, and JavaScript. On completion, you will be able to make simple static websites for both desktop and mobile.
 
 ## Responsive UI
@@ -39,3 +40,5 @@ Submission has to be done by sharing your github repo link and deployment link o
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+
+- Manu Shukla - [Tic Tac Toe](https://github.com/manu-shukla/Tic-Tac-Toe) [Site](https://manu-shukla.github.io/Tic-Tac-Toe/)
