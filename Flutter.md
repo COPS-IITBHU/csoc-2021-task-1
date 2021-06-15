@@ -72,6 +72,7 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 
 ## Submissions
 
+Parth Bansal - [tic_tac_toe](https://github.com/parthb83/tic_tac_toe) [APK](https://github.com/parthb83/tic_tac_toe/blob/master/app-release.apk)
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico) -->
