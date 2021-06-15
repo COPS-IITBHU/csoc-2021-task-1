@@ -24,7 +24,7 @@ To use flutter consistently between different terminal sessions, go through this
 
 [Linux install](https://flutter.dev/docs/get-started/install/linux#update-your-path)
 
-Install a suitable IDE. VS Code (compared to Android Studio) is good choice for a light and better experience. 
+Install a suitable IDE. VS Code (compared to Android Studio) is good choice for a light and better experience.
 
 # For Basic Understanding
 
@@ -75,3 +75,5 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico) -->
+
+<!-- - Dhruv Agarwal - [CSOC-Week1-Tic-Tac-Toe-Flutter](https://github.com/dhruxy/CSOC-Week1-Tic-Tac-Toe-Flutter) [APK](https://github.com/dhruxy/CSOC-Week1-Tic-Tac-Toe-Flutter/blob/main/app-release.apk) -->
