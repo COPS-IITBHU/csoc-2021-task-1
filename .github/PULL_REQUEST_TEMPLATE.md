@@ -30,3 +30,5 @@
 <!-- Add in your repo and apk link or web site link as per track -->
 [Repo](link)
 [APK|Web Site](link)
+[Repo](https://github.com/aditi824/sudokuu)
+[APK|Web Site](https://aditi824.github.io/sudokuu/)
