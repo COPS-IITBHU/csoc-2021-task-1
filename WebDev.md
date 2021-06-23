@@ -38,11 +38,12 @@ Submission has to be done by sharing your github repo link and deployment link o
 ## Submissions
 
 <!-- Add you name in below list as -->
+<!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
 - Sahil saini - [tic-tac-toe](https://github.com/sahilsaini110/tic-tac-toe) [sahilsaini-tic-tac-toe](https://sahilsaini-tic-tac-toe.netlify.app)
 - Manu Shukla - [Tic Tac Toe](https://github.com/manu-shukla/Tic-Tac-Toe) [Site](https://manu-shukla.github.io/Tic-Tac-Toe/)
 - Divyansh Srivastava [Tic-tac-toe](https://github.com/Divyansh013/Tic-Tac-Toe) [Site](https://divyansh013.github.io/Tic-Tac-Toe/)
 - Ashlesha Dixit - [TicTacToe](https://github.com/sakshi-2412/TicTacToe) [Site](https://sakshi-2412.github.io/TicTacToe/)
-<!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+- Harshita Singh - [TIC-TAC-TOE](https://github.com/hiya-09/TIC-TAC-TOE.git) [Site](https://github.com/hiya-09)
 - Apoorve shukla - [Tic-Tac-Toe_game](https://github.com/shukapurv/Tic-Tac-Toe_game) [Site](https://shukapurv.github.io/Tic-Tac-Toe_game/)
 - Deepak Verma - [github Repo](https://github.com/Deepakv14/TicTacToeFinal.github.io) [Web Site](https://deepakv14.github.io/TicTacToeFinal.github.io/)
 - Debarati Bandopadhyay - [tic-tac-toe](https://github.com/debarati-06/tic-tac-toe) [Site](https://debarati-06.github.io/tic-tac-toe/)
