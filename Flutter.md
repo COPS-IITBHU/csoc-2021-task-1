@@ -72,8 +72,9 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 
 ## Submissions
 
+- Parth Bansal - [tic_tac_toe](https://github.com/parthb83/tic_tac_toe) [APK](https://github.com/parthb83/tic_tac_toe/blob/master/app-release.apk)
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico) -->
-Dev Raj R - [flutter-tic-tac-toe](https://github.com/dev-raj-1729/flutter-tic-tac-toe) [APK](https://github.com/dev-raj-1729/hello-world/blob/4fcb8a45ae3215ba385a6799e874d812ead23b53/app-release.apk)
-
+- Dev Raj R - [flutter-tic-tac-toe](https://github.com/dev-raj-1729/flutter-tic-tac-toe) [APK](https://github.com/dev-raj-1729/hello-world/blob/4fcb8a45ae3215ba385a6799e874d812ead23b53/app-release.apk)
+- Chirayu Mittal - [tic-tac-toe_Chirayu](https://github.com/chirayumit001/tic-tac-toe_Chirayu) [Site](https://mine-tic-tac-toe-game.netlify.app/#/)
