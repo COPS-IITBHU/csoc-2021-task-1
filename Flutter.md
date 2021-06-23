@@ -75,4 +75,4 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico) -->
-<!-- - Chirayu Mittal - [tic-tac-toe_Chirayu](https://github.com/chirayumit001/tic-tac-toe_Chirayu) [Site](https://mine-tic-tac-toe-game.netlify.app/#/) -->
+Chirayu Mittal - [tic-tac-toe_Chirayu](https://github.com/chirayumit001/tic-tac-toe_Chirayu) [Site](https://mine-tic-tac-toe-game.netlify.app/#/)
