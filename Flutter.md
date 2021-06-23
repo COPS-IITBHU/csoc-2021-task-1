@@ -73,13 +73,10 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 ## Submissions
 
 - Parth Bansal - [tic_tac_toe](https://github.com/parthb83/tic_tac_toe) [APK](https://github.com/parthb83/tic_tac_toe/blob/master/app-release.apk)
-<!-- Add you name in below list as -->
-<!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 - Parth Gupta - [Tic Tac](https://github.com/parthg48/tictactoe_flutter) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico)
-<!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [APK](https://github.com/king-11/Vue-Birthday/blob/master/public/favicon.ico) -->
+- Drishti Bansal - [Tic-Tac-toe](https://github.com/stuck-in-a-conundrum/Tic-Tac-toe.git) [APK](https://github.com/stuck-in-a-conundrum/Tic-Tac-toe/blob/main/build/app/outputs/apk/debug/app-debug.apk)
 - Pawan Kumar [Tic Tac](https://github.com/blackpearl13246/MY_GAME)   [APK](build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk)
 - Dhroov Singh - [Tictactoe](https://github.com/singhdhroov/Tictactoe.git) [APK](https://github.com/singhdhroov/Tictactoe/blob/master/app-release.apk)
 - Dhruv Agarwal - [CSOC-Week1-Tic-Tac-Toe-Flutter](https://github.com/dhruxy/CSOC-Week1-Tic-Tac-Toe-Flutter) [APK](https://github.com/dhruxy/CSOC-Week1-Tic-Tac-Toe-Flutter/blob/main/app-release.apk)
 - Dev Raj R - [flutter-tic-tac-toe](https://github.com/dev-raj-1729/flutter-tic-tac-toe) [APK](https://github.com/dev-raj-1729/hello-world/blob/4fcb8a45ae3215ba385a6799e874d812ead23b53/app-release.apk)
 - Chirayu Mittal - [tic-tac-toe_Chirayu](https://github.com/chirayumit001/tic-tac-toe_Chirayu) [Site](https://mine-tic-tac-toe-game.netlify.app/#/)
-
