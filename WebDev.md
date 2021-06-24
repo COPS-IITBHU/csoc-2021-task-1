@@ -39,6 +39,7 @@ Submission has to be done by sharing your github repo link and deployment link o
 
 <!-- Add you name in below list as -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+- Shubhangi Choudhary - [TicTacToe](https://github.com/shubhangi013/TicTacToe) [Site](https://shubhangi013.github.io/TicTacToe/)
 - Sahil saini - [tic-tac-toe](https://github.com/sahilsaini110/tic-tac-toe) [sahilsaini-tic-tac-toe](https://sahilsaini-tic-tac-toe.netlify.app)
 - Manu Shukla - [Tic Tac Toe](https://github.com/manu-shukla/Tic-Tac-Toe) [Site](https://manu-shukla.github.io/Tic-Tac-Toe/)
 - Divyansh Srivastava [Tic-tac-toe](https://github.com/Divyansh013/Tic-Tac-Toe) [Site](https://divyansh013.github.io/Tic-Tac-Toe/)
