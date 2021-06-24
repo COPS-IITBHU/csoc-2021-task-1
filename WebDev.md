@@ -39,6 +39,7 @@ Submission has to be done by sharing your github repo link and deployment link o
 
 <!-- Add you name in below list as -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+- Tarun Arora - [CSOC-Week1-Tic-Tac-Toe](https://github.com/Tarun-Arora/CSOC-Week1-Tic-Tac-Toe) [Site](https://tarun-arora.github.io/CSOC-Week1-Tic-Tac-Toe/)
 - Aditya Chhaparia - [sudoku-game](https://github.com/aditya-chhaparia/sudoku-game) [Site](https://aditya-chhaparia.github.io/sudoku-game/)
 - Shubhangi Choudhary - [TicTacToe](https://github.com/shubhangi013/TicTacToe) [Site](https://shubhangi013.github.io/TicTacToe/)
 - Sahil saini - [tic-tac-toe](https://github.com/sahilsaini110/tic-tac-toe) [sahilsaini-tic-tac-toe](https://sahilsaini-tic-tac-toe.netlify.app)
