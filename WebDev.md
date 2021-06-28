@@ -1,6 +1,7 @@
 # CSOC Week1 Web Development
 
-##  Introduction
+## Introduction
+
 Web development is a basic skill that is often said as a good start to the development field. This week you will learn the basics of web development. You will get familiar with HTML, CSS, and JavaScript. On completion, you will be able to make simple static websites for both desktop and mobile.
 
 ## Responsive UI
@@ -39,5 +40,19 @@ Submission has to be done by sharing your github repo link and deployment link o
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
-
 - Ashwat Kumar Singh - [Tic Tac](https://github.com/NerdyLucifer/Tic-Tac-Toe) [Site](https://nerdylucifer.github.io/Tic-Tac-Toe/singlePlayerMode.html)
+- Ankur Agrawal - [Repo Name](https://github.com/Ankur-Agrawal-ece20/Tic-Tac-Toe) [Site](https://ankur-agrawal-ece20.github.io/Tic-Tac-Toe/index.html)
+- Danish Ahmed Mirza - [Tic Tac](https://github.com/try-catch-stack/Tic-Tac-Toe) [Site](https://try-catch-stack.github.io/Tic-Tac-Toe/)
+- Tarun Arora - [CSOC-Week1-Tic-Tac-Toe](https://github.com/Tarun-Arora/CSOC-Week1-Tic-Tac-Toe) [Site](https://tarun-arora.github.io/CSOC-Week1-Tic-Tac-Toe/)
+- Aditya Chhaparia - [sudoku-game](https://github.com/aditya-chhaparia/sudoku-game) [Site](https://aditya-chhaparia.github.io/sudoku-game/)
+- Shubhangi Choudhary - [TicTacToe](https://github.com/shubhangi013/TicTacToe) [Site](https://shubhangi013.github.io/TicTacToe/)
+- Sahil saini - [tic-tac-toe](https://github.com/sahilsaini110/tic-tac-toe) [sahilsaini-tic-tac-toe](https://sahilsaini-tic-tac-toe.netlify.app)
+- Manu Shukla - [Tic Tac Toe](https://github.com/manu-shukla/Tic-Tac-Toe) [Site](https://manu-shukla.github.io/Tic-Tac-Toe/)
+- Divyansh Srivastava [Tic-tac-toe](https://github.com/Divyansh013/Tic-Tac-Toe) [Site](https://divyansh013.github.io/Tic-Tac-Toe/)
+- Ashlesha Dixit - [TicTacToe](https://github.com/sakshi-2412/TicTacToe) [Site](https://sakshi-2412.github.io/TicTacToe/)
+- Harshita Singh - [TIC-TAC-TOE](https://github.com/hiya-09/TIC-TAC-TOE.git) [Site](https://github.com/hiya-09)
+- Apoorve shukla - [Tic-Tac-Toe_game](https://github.com/shukapurv/Tic-Tac-Toe_game) [Site](https://shukapurv.github.io/Tic-Tac-Toe_game/)
+- Deepak Verma - [github Repo](https://github.com/Deepakv14/TicTacToeFinal.github.io) [Web Site](https://deepakv14.github.io/TicTacToeFinal.github.io/)
+- Debarati Bandopadhyay - [tic-tac-toe](https://github.com/debarati-06/tic-tac-toe) [Site](https://debarati-06.github.io/tic-tac-toe/)
+- Ayush Tiwari - [tictactoe.github.io](https://github.com/Ayush-AT24/tictactoe.github.io)[site](https://ayush-at24.github.io/tictactoe.github.io/)
+- Somesh Ranjan - [Tic-Tac-Toe](https://github.com/somesh202/Tic-Tac-Toe) [Site](https://somesh202.github.io/Tic-Tac-Toe/)
