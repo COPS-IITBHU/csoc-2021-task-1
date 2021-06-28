@@ -40,6 +40,7 @@ Submission has to be done by sharing your github repo link and deployment link o
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+- Manali Pawar - [Sudoku-Game] (https://github.com/ManaliPawar/Sudoku-Game) [Site](https://manalipawar.github.io/Sudoku-Game/)
 - Pratik Mishra [Sudoku_CSoC_2021-web](https://github.com/DolceParadise/Sudoku_CSoC_2021-web) [Site](https://dolceparadise.github.io/Sudoku_CSoC_2021-web/)
 - Ashwat Kumar Singh - [Tic Tac](https://github.com/NerdyLucifer/Tic-Tac-Toe) [Site](https://nerdylucifer.github.io/Tic-Tac-Toe/singlePlayerMode.html)
 - Ankur Agrawal - [Repo Name](https://github.com/Ankur-Agrawal-ece20/Tic-Tac-Toe) [Site](https://ankur-agrawal-ece20.github.io/Tic-Tac-Toe/index.html)
