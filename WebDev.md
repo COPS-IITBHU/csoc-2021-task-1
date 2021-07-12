@@ -36,10 +36,11 @@ Submission has to be done by sharing your github repo link and deployment link o
 - Make a Pull request
 
 ## Submissions
-- Aniruddh Patil - [repo](https://github.com/lelouch-of-the-code/csoc-week1-wd) | [live site](https://anii-sudoku.netlify.app/)
 <!-- Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
 <!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+- Aniruddh Patil - [repo](https://github.com/lelouch-of-the-code/csoc-week1-wd) | [live site](https://anii-sudoku.netlify.app/)
+- Yash Raj - [Sudoku-Game](https://github.com/tiger-yash/Sudoku-Game) [SUDOKU](https://tiger-yash.github.io/Sudoku-Game/) 
 - Naveen Kumar - [Tic-Tac-Toe](https://github.com/Majesty-12/Tic-Tac-Toe) [Website](https://naveen-tic-tac-toe.netlify.app)
 - Sanskar Santosh Totla - [Sudoku-Game](https://github.com/it-is-skywalkerl/Sudoku-Game) [Site](https://it-is-skywalkerl.github.io/Sudoku-Game/)
 - Manali Pawar - [Sudoku-Game] (https://github.com/ManaliPawar/Sudoku-Game) [Site](https://manalipawar.github.io/Sudoku-Game/)
