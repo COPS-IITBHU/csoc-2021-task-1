@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+body{
+    background: rgb(236,154,181);
+}
+
+.start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+}
+
+.select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    visibility: hidden;
+    top: 50%;
+}
+
+.table{
+    display: flex;
+    flex-direction: column;
+    visibility: hidden;
+    margin-top: 20px;
+}
+
+.row{
+    display: flex;
+    margin: 2.5px;
+}
+
+.cell{
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 10%;
+}
+
+.heading{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    text-rendering: optimizeLegibility;
+    color: #2c2c2c;
+    letter-spacing: .05em;
+    text-shadow: 
+    2px 2px 0px #d5d5d5, 
+    3px 3px 0px rgba(0, 0, 0, 0.2);
+}
+
+.player-name{
+    font-style: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}   
+
+.t-block{
+    padding: 5px;
+    justify-content: center;
+}
+
+.points-table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    visibility: hidden;
+}
+
+.btn{
+    margin: 20px;
+}
+
+#reset{
+    visibility: hidden;
+}
+
+.selectButton{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#message{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn, .selectButton{
+    outline: none;
+    border: 2px solid black;
+    font-size: 1rem;
+    font-weight: bold;
+    background: none;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    background-color: #498AFB;
+
+    background-color: green;
+	background-image: linear-gradient(rgb(0, 136, 0),rgb(12, 236, 12));
+
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	font-family: sans-serif;
+	font-weight: 100;
+    border-radius: 3px;
+    box-shadow: 0px 1px 4px -2px #333;
+    text-shadow: 0px -1px #333;
+}
+
+.btn{
+    padding: 10px;
+}
+
+.btn:hover, .selectButton:hover {
+    cursor: pointer;
+    background: rgb(7, 206, 7);
+    color: white;
+    background: linear-gradient(rgb(9, 194, 89),#0fa);
+}
+
+.cell{
+    border: 2px solid cyan;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.cell:hover{
+    cursor: pointer;
+    background-color: grey;
+}
