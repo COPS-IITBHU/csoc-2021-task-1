@@ -61,3 +61,4 @@ Submission has to be done by sharing your github repo link and deployment link o
 - Debarati Bandopadhyay - [tic-tac-toe](https://github.com/debarati-06/tic-tac-toe) [Site](https://debarati-06.github.io/tic-tac-toe/)
 - Ayush Tiwari - [tictactoe.github.io](https://github.com/Ayush-AT24/tictactoe.github.io)[site](https://ayush-at24.github.io/tictactoe.github.io/)
 - Somesh Ranjan - [Tic-Tac-Toe](https://github.com/somesh202/Tic-Tac-Toe) [Site](https://somesh202.github.io/Tic-Tac-Toe/)
+- Pawan Kumar - [Tic-Tac-Toe](https://github.com/blackpearl13246/TIC_TAC_TOE_2) [Site](https://blackpearl13246.github.io/TIC_TAC_TOE_2/)
