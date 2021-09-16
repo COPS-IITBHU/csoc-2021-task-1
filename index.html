@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tic Tac Toe Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="bg-image"></div>
+  <div id="select-box">
+    <header>Tic Tac Toe</header>
+    <div class="content" id="players2">
+      <div class="title">Play versus</div>
+        <div class="options">
+          <button class="computer" id="computer">Computer</button>
+          <button class="friend" id="friend">Friend</button>
+        </div>
+    </div>
+
+    <div class="content" id="singleplayer">
+      <div class="title">Select the shape to start with</div>
+      <div class="options">
+        <button class="O">O</button>
+        <button class="X">X</button>
+      </div>
+    </div>
+
+    <div class="content" id="shape">
+      <div class="options start">
+        <button class="start">START</button>
+      </div>
+    </div>
+
+    <span id="x_score"></span>
+    <span id="o_score"></span>
+    <br>
+    <div id="turn"></div>
+    <div id="result"></div>
+
+    <div class="board">
+      <div class="box" id="topleft"></div>
+      <div class="box" id="top"></div>
+      <div class="box" id="topright"></div>
+      <div class="box" id="left"></div>
+      <div class="box" id="middle"></div>
+      <div class="box" id="right"></div>
+      <div class="box" id="bottomleft"></div>
+      <div class="box" id="bottom"></div>
+      <div class="box" id="bottomright"></div>
+    </div>
+    <div>
+      <button class = "reset ">Reset</button>
+      <button class = "home">Home</button>
+    </div>
+
+  </div> 
+  
+  <script src="script.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</body>
+</html>
